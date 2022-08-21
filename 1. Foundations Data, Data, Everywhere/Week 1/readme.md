@@ -15,4 +15,4 @@ Data helps us make decisions in everyday life and in business. In this first par
 * Evaluate the role of analytics in the data ecosystem
 * Explain the use of data in organizational decision-making
 * Be prepared to use the discussion forum effectively and appropriately
-* Describe the key concepts to be discussed in the program, including learning outcomes
+* Describe the key concepts to be discussed in the program, including learning outcomes.
